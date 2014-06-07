@@ -3,7 +3,7 @@
  * jQuery noreferrer
  *
  * ---
- * @version 0.0.0
+ * @version 0.0.1
  * @author falsandtru https://github.com/falsandtru/
  * @license MIT http://opensource.org/licenses/mit-license.php
  * @copyright 2014, falsandtru
